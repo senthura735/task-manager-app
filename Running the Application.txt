@@ -1,0 +1,3 @@
+Save the code in a Python file (e.g., 'task_manager.py') and run it using a Python interpreter. The user can interact with the task manager through the command-line interface to manage their tasks.
+
+This basic implementation can be extended with more features such as due dates, categories, persistence (saving to a file), and more sophisticated recommendation algorithms.

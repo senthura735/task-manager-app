@@ -1,0 +1,5 @@
+1. Task Class: Represents a task with a description and a priority.
+
+2. TaskManager Class: Manages the list of tasks with methods to add, remove, list, prioritize, and recommend tasks.
+
+3. Main Function: Provides a simple command-line interface for interacting with the task manager.
